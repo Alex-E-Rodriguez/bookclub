@@ -7,11 +7,13 @@
         <option value="$PROJECT_DIR$/../com.bookclub/pom.xml" />
         <option value="$PROJECT_DIR$/rodriguez_assignment_2-1/pom.xml" />
         <option value="$PROJECT_DIR$/rodriguez_assignment_3-2/pom.xml" />
+        <option value="$PROJECT_DIR$/rodriguez_assignment_4-2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/rodriguez_assignment_2-1/pom.xml" />
+        <option value="$PROJECT_DIR$/rodriguez_assignment_3-2/pom.xml" />
         <option value="$PROJECT_DIR$/../com.bookclub/pom.xml" />
       </set>
     </option>
