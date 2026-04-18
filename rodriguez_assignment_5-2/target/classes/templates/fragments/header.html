@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html xmlns:th="http://www.thymeleaf.org">
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="https://www.thymeleaf.org/extras/spring-security">
 <head></head>
 <body>
     <header th:fragment="header">
@@ -25,6 +26,17 @@
                             <a class="nav-link" href="/wishlist" th:href="@{/wishlist}">Wishlist</a>
                         </li>
                     </ul>
+                </div>
+
+                <div class="nav navbar-nav ml-auto justify-content-center">
+                    <div sec:authorize="isAuthenticated()">
+                        Logged in as <strong sec:authentication="name"></strong>
+                    </div>
+                </div>
+                <div class="nav navbar-nav ml-auto justify-content-end">
+                    <li class="nav-item float-end">
+                        <a href="/logout" th:href="@{/logout}" class="nav-link float-end">Logout</a>
+                    </li>
                 </div>
             </div>
         </nav>
