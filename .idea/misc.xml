@@ -5,20 +5,16 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../com.bookclub/pom.xml" />
-        <option value="$PROJECT_DIR$/rodriguez_assignment_2-1/pom.xml" />
-        <option value="$PROJECT_DIR$/rodriguez_assignment_3-2/pom.xml" />
-        <option value="$PROJECT_DIR$/rodriguez_assignment_4-2/pom.xml" />
+        <option value="$PROJECT_DIR$/rodriguez_assignment_6-2/pom.xml" />
         <option value="$PROJECT_DIR$/rodriguez_assignment_5-2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/rodriguez_assignment_2-1/pom.xml" />
-        <option value="$PROJECT_DIR$/rodriguez_assignment_3-2/pom.xml" />
-        <option value="$PROJECT_DIR$/rodriguez_assignment_4-2/pom.xml" />
+        <option value="$PROJECT_DIR$/rodriguez_assignment_5-2/pom.xml" />
         <option value="$PROJECT_DIR$/../com.bookclub/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_26" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_26" project-jdk-name="21" project-jdk-type="JavaSDK" />
 </project>
